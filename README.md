@@ -2,6 +2,8 @@
 
 simple cli to fetch an anthropic access token using oauth (pkce), built with bun
 
+[![demo video showing using it with crush](https://cap.so/api/video/og?videoId=3a8ysd68ne227qp)](https://cap.link/3a8ysd68ne227qp)
+
 ## usage
 
 ```bash
